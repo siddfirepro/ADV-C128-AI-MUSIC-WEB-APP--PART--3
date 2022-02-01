@@ -1,0 +1,8 @@
+.play{
+    width: 130px;
+font-size: 25px;
+}
+canvas{
+    border:5px solid lime ;
+    border-radius:20px;
+}
